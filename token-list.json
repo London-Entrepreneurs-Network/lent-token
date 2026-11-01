@@ -1,0 +1,22 @@
+{
+  "name": "London Entrepreneurs Network",
+  "logoURI": "https://raw.githubusercontent.com/London-Entrepreneurs-Network/lent-token/main/logos/lent-icon-256.png",
+  "keywords": ["LENT", "LEN", "BSC"],
+  "timestamp": "2026-11-01T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1Ca53AB509757A4FE134709Ee53BBcDA5D4a8A6d",
+      "name": "London Entrepreneurs Network Token",
+      "symbol": "LENT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/London-Entrepreneurs-Network/lent-token/main/logos/lent-icon-256.png",
+      "extensions": {
+        "website": "https://www.londonentrepreneursnetwork.com",
+        "whitepaper": "https://www.londonentrepreneursnetwork.com/whitepaper/LENT-white-paper.pdf",
+        "explorer": "https://bscscan.com/token/0x1Ca53AB509757A4FE134709Ee53BBcDA5D4a8A6d"
+      }
+    }
+  ]
+}
